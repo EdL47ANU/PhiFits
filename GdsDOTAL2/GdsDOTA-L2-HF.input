@@ -10,7 +10,7 @@ fepr 120 240 390
 tepr 15
 lw 0.001
 type 1 1 1
-field powder 6
+field powder 8
 ***fit
 simplex
 1.9919
