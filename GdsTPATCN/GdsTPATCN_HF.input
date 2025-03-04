@@ -1,0 +1,35 @@
+****spin
+7
+****gfac
+1 1.9911298355158160
+****crys
+1 2 0 0.01472192715
+1 2 2 0.00165084146
+****epr
+fepr 120 240 390
+tepr 20
+lw 0.001
+type 1 1 1
+field powder 8
+***fit
+simplex
+0.014
+CF 1 2 0
+-------------
+0.001
+CS 1 2 0
+--------------
+0.001
+CF 1 2 2
+-------------
+0.0001
+CS 1 2 2
+----------
+***param
+opmode fit e
+single
+zfs 1
+fitvigour 1
+****end
+
+field powder 8 fit
