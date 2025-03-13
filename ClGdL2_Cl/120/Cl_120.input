@@ -13,17 +13,14 @@ type 1
 field powder 8
 ***fit
 simplex
+1.99
+GF 1 4
+---------------
 0.0147219271586370
 CF 1 2 0 
 ------------------
 0.0042459354604442
 CS 1 2 0
-------------------
-0.0016508414672466
-CF 1 2 2
-------------------
-0.0007650450617440
-CS 1 2 2
 -------------
 ***param
 opmode fit e
@@ -31,7 +28,7 @@ single
 zfs 1
 fitvigour 1
 ****end
-field powder 7 fit
+field powder 6 fit
 
 
 
